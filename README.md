@@ -1,4 +1,6 @@
-# game_of_life
-Cell simulation created using C++. The simulation works on the principle of the well-known "game of life" algorithm created by John Horton.
-![ss11](https://github.com/dazaizer0/game_of_life/assets/60112867/eef25cb8-bead-4c73-9519-e149c6cf9bfb)
-![game of life ss](https://github.com/dazaizer0/game_of_life/assets/60112867/f8067e46-3b15-4169-870c-4f887bfc70ad)
+# "sol" the "game of life" system
+"sol" - "game of life", is a project written in c/c++, based on the algorithm invented by John Horton in 1970. 
+The program uses the raylib graphics library.
+"sol" offers various functions such as zooming in and moving around the scene to better and more accurately view the ongoing situations. "sol" also offers the function of adding individual cells yourself and influencing situations on your own.
+
+![0.10.0 look](https://github.com/dazaizer0/game_of_life/assets/60112867/eef25cb8-bead-4c73-9519-e149c6cf9bfb)
