@@ -1,4 +1,4 @@
-# "mol" the "game of life" system
+# "mol", the "game of life" system
 "mol" - "game of life", is a project written in c/c++, based on the algorithm invented by John Horton in 1970. 
 
 The program uses the raylib graphics library.
