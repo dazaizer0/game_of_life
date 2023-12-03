@@ -3,9 +3,22 @@
 
 The program uses the raylib graphics library.
 
-"sol" offers various functions such as zooming in and moving around the scene to better and more accurately view the ongoing situations. "sol" also offers the function of adding individual cells yourself and influencing situations on your own.
+"sol" offers various functions such as zooming in and moving around the scene to better and more accurately view the ongoing situations.
+
+ "sol" also offers the function of adding individual cells yourself and influencing situations on your own.
 
 **download mol-game of life:** https://github.com/dazaizer0/mol-game_of_life/releases/tag/v1.0.0
+
+**"Rules of the Game of Life"**
+
+1. A cell can be alive or dead.
+2. A living cell survives with 2 or 3 neighbors.
+3. A dead cell comes to life with exactly 3 neighbors.
+
+4. Fewer than 2 neighbors - the cell dies of loneliness.
+5. More than 3 neighbors - the cell dies of overcrowding.
+
+6. The board evolves step by step, following these rules.
 
 *showcase:*
 ![111](https://github.com/dazaizer0/game_of_life-mol/assets/60112867/66443233-d7cc-4ef5-8789-a6219d3c3a07)
